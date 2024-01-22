@@ -12,5 +12,3 @@ SQLAlchemy
 starlette
 uvicorn
 webdriver-manager
-packaging
-chromedriver-binary
