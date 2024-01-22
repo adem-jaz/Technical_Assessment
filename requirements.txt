@@ -1,0 +1,16 @@
+aiosqlite
+beautifulsoup4
+databases
+facebook-page-scraper
+facebook_scraper
+fastapi
+requests
+selenium==4.1.0
+selenium-wire
+setuptools
+SQLAlchemy
+starlette
+uvicorn
+webdriver-manager
+packaging
+chromedriver-binary
