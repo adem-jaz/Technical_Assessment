@@ -18,6 +18,5 @@ To execute this project, follow these steps :
 - Navigate to 127.0.0.1/scrap/{facebook_page_name} to try the API (exp: 127.0.0.1/RealMadrid)
 
 ## Example: Result with metaai
-<img width="960" alt="Capture d'écran 2024-01-22 224538" src="https://github.com/adem-jaz/Technical_Assessment/assets/156452749/2d6bd0e4-8c9c-46f2-8995-4026e86b6b90">
-
+<img width="960" alt="Capture d'écran 2024-01-22 225947" src="https://github.com/adem-jaz/Technical_Assessment/assets/156452749/3ba22f3a-2a66-4136-a59b-53c80f44a056">
 
